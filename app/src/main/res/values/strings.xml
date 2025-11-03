@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="lemon_select">Ketuk pohon lemon untuk memilih lemon</string>
+    <string name="lemon_squeeze">Terus ketuk lemon untuk memerasnya</string>
+    <string name="lemon_drink">Ketuk limun untuk meminumnya</string>
+    <string name="lemon_empty_glass">Ketuk gelas kosong untuk memulai lagi</string>
+    <string name="lemon_tree_content_description">Pohon lemon</string>
+    <string name="lemon_content_description">Lemon</string>
+    <string name="lemonade_content_description">Segelas limun</string>
+    <string name="empty_glass_content_description">Gelas kosong</string>
+</resources>
